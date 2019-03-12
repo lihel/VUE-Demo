@@ -13,9 +13,9 @@
         test: "Test",
         url: "www.hahaha.com",
         method: function a() {
-          return this.test+"哈哈哈哈"
-        }
+          return this.test + "哈哈哈哈"
         }
       }
+    }
   }
 </script>
