@@ -7,7 +7,11 @@
         <span v-if="seen">
             隐身
         </span>
+      <span v-else>
+        <p>哈哈哈，OKOKOKOKOKOK！！！</p>
+      </span>
     </div>
+
   </div>
 
 
